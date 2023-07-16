@@ -16,5 +16,5 @@ Réaliser une première mission d’analyse exploratoire, pour déterminer si le
 *Dans quels pays l'entreprise doit-elle opérer en priorité ?
 
 **Description des dossiers et fichiers :**
-* **Notebook** : contient le code de la préparation des données, de l'analyse exploratoire, de la modélisation.
-* **Dossier Data** : dossier contenant les données du projet (Source de données : https://www.kaggle.com/c/home-credit-default-risk/data) 
+* **Notebook**, comportant les analyses pré-exploratoires réalisées.
+* **Support de présentation** pour la soutenance.
