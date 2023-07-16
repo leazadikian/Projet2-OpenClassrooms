@@ -1,5 +1,5 @@
 # Projet2-OpenClassrooms
-Parcours Data Scientist - Projet 2: Analysez des données de systèmes éducatifs
+Parcours Data Scientist - Projet 2 : Analysez des données de systèmes éducatifs
 
 **Source de données : https://datacatalog.worldbank.org/search/dataset/0038480**
 
