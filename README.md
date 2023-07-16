@@ -3,7 +3,7 @@ Parcours Data Scientist - Projet 2: Analysez des données de systèmes éducatif
 
 **Source de données : https://datacatalog.worldbank.org/search/dataset/0038480**
 
-**Contexte:**
+**Contexte :**
 
 Nous sommes Data Scientist dans une start-up de la EdTech, nommée academy, qui propose des contenus de formation en ligne pour un public de niveau lycée et université.
 
