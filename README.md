@@ -15,6 +15,6 @@ Réaliser une première mission d’analyse exploratoire, pour déterminer si le
 * Pour chacun de ces pays, quelle sera l’évolution de ce potentiel de clients ?
 * Dans quels pays l'entreprise doit-elle opérer en priorité ?
 
-**Description des dossiers et fichiers :**
+**Description des fichiers :**
 * **Notebook**, comportant les analyses pré-exploratoires réalisées.
 * **Support de présentation** pour la soutenance.
